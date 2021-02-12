@@ -6,11 +6,11 @@
 
 | Version | Security Fixes Until |
 | ------- | -------------------- |
-| 1.0.2   | March 31st, 2021     |
+| 1.0.5   | March 31st, 2021     |
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability within Preflight, please send an email to <Thavarshan Thayananthajothy> (tjthavarshan@gmail.com). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within Sentinel, please send an email to <Thavarshan Thayananthajothy> (tjthavarshan@gmail.com). All security vulnerabilities will be promptly addressed.
 
 ### Public PGP Key
 
