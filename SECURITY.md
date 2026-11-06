@@ -1,24 +1,17 @@
-# Security Policy
+# Security policy template
 
-**PLEASE DON'T DISCLOSE SECURITY-RELATED ISSUES PUBLICLY, [SEE BELOW](#reporting-a-vulnerability).**
+**This file is an example. Adapt it to the destination repository before publishing.** Do not copy unsupported security promises, old version schedules or placeholder cryptographic keys.
 
-## Supported Versions
+## Reporting vulnerabilities
 
-| Version | Security Fixes Until |
-| ------- | -------------------- |
-| 1.0.5   | March 31st, 2021     |
+For this template collection, report possible security issues privately to [tjthavarshan@gmail.com](mailto:tjthavarshan@gmail.com). Do not publish exploit details or secrets in an issue.
 
-## Reporting a Vulnerability
+When adapting to another project:
 
-If you discover a security vulnerability within Sentinel, please send an email to <Thavarshan Thayananthajothy> (tjthavarshan@gmail.com). All security vulnerabilities will be promptly addressed.
+1. Replace the contact with that project's monitored private-reporting channel (or enable GitHub private vulnerability reports).
+2. List only release branches the team actually supports; if there is no formal schedule, say so honestly.
+3. Document what reproduction data is safe to share. Never request real user credentials.
+4. Specify disclosure expectations that the maintainer can realistically meet.
+5. Add a PGP key **only if it is a real, current, independently verifiable public key**. Do not paste a fabricated key block.
 
-### Public PGP Key
-
-```
------BEGIN PGP PUBLIC KEY BLOCK-----
-Version: OpenPGP v2.0.8
-Comment: https://sela.io/pgp/
-
-<!-- PGP Public Key Goes Here -->
------END PGP PUBLIC KEY BLOCK-----
-```
+The existence of this template does not mean a product has been independently security audited.
